@@ -1,0 +1,18 @@
+body
+{
+    background-color: #a9bcd0;
+}
+
+.nav_style
+{
+    background-color: #373f51;
+    border-width: 6px;
+    border-style: solid;
+    border-radius: 2px;
+}
+
+#title_info
+{
+    background-color:#0d324d;
+    padding: 25px;
+}
