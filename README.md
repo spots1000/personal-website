@@ -1,6 +1,6 @@
 # personal-website
 
-## Website Structure
+#### Website Structure
 Website is split into 5 primary tabs.
 - Home
 - About
