@@ -17,7 +17,7 @@ Website is split into 5 primary tabs.
 
 ##### To Do:
 - Finish all page content
-- Establish color scheme
+- Establish color scheme - Temporarily [ Background Color - eeeeee | Dark Color - 495464 | Light Color - bbbfca | Accent & Buttons - 0092ca ]
 - Political activism page?
 - Things To Do section on homepage needs to be made functional
 - Photos for each skill page & Primary photo caurosel
