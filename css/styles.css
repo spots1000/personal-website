@@ -10872,3 +10872,65 @@ html {
   background-repeat: no-repeat;
   min-height: 15rem;
 }
+
+.blockLink {
+    color: black;
+}
+
+.blockLink:hover {
+    color: #0092ca;
+}
+
+.socialLogos {
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+}
+
+.descBox {
+    display: block;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.blockLink.socialLogos {
+    margin-top: 20px;
+}
+
+.githubBanner {
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 5px;
+}
+
+.pplPwrFlBlock {
+    width: 50%; 
+    position: relative; 
+    left: 25%;
+}
+
+.pplPwrFlBtn {
+    width: 350px;
+    height: 70px;
+    font-size: 30px;
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+}
+
+.pplPwrFlBtn:hover {
+    width: 350px;
+    height: 70px;
+    font-size: 30px;
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+}
+
+.bannerStyle {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
